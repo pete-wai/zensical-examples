@@ -1,0 +1,11 @@
+[project]
+site_name = "gh-admonitions example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/gh-admonitions/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.gh-admonitions]
+

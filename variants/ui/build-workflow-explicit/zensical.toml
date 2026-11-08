@@ -1,0 +1,13 @@
+[project]
+site_name = "Build workflow: explicit navigation"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/build-workflow-explicit/"
+use_directory_urls = true
+exclude_docs = "excluded.md"
+draft_docs = "draft.md"
+not_in_nav = "hidden.md"
+nav = [{ "Start" = "index.md" }, { "Hidden, explicitly listed" = "hidden.md" }, { "Visible" = "visible.md" }]
+[project.theme]
+font = false
+[project.validation]
+invalid_links = true
+invalid_link_anchors = true

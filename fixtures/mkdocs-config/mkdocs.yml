@@ -1,0 +1,11 @@
+site_name: Configuration equivalence
+site_url: https://example.test/
+docs_dir: docs
+site_dir: site-yaml
+use_directory_urls: false
+nav:
+  - Home: index.md
+  - Guide: guide.md
+theme:
+  name: material
+  font: false

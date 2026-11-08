@@ -1,0 +1,17 @@
+[project]
+name = "zensical-examples"
+version = "0.1.0"
+requires-python = ">=3.13.15"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "markdown-exec[ansi]>=1.12.6",
+    "mike",
+    "mkdocstrings-python>=2.0.10",
+    "pandas>=3.1.1",
+    "pillow>=13.0.0",
+    "tabulate>=0.10.0",
+    "zensical==0.1.0",
+]
+
+[tool.uv.sources]
+mike = { git = "https://github.com/squidfunk/mike.git", rev = "2d4ad799442f4592db8ad53b179bfb33db8c69ac" }

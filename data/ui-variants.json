@@ -1,0 +1,158 @@
+[
+  {
+    "id": "baseline",
+    "title": "Plain navigation",
+    "features": [],
+    "description": "The sidebar uses collapsible groups. Open Guides, then return here to compare the expanded version.",
+    "config": "variants/ui/baseline/zensical.toml"
+  },
+  {
+    "id": "classic",
+    "title": "Classic theme",
+    "features": [],
+    "description": "Compare the header, typography, spacing, and code blocks with the modern baseline. The content is identical.",
+    "config": "variants/ui/classic/zensical.toml"
+  },
+  {
+    "id": "tabs",
+    "title": "Navigation tabs",
+    "features": [
+      "navigation.tabs",
+      "navigation.tabs.sticky"
+    ],
+    "description": "Top-level sections become tabs. Scroll down: the tab bar stays visible. On a narrow screen, use the menu instead.",
+    "config": "variants/ui/tabs/zensical.toml"
+  },
+  {
+    "id": "sections",
+    "title": "Navigation sections",
+    "features": [
+      "navigation.sections"
+    ],
+    "description": "Top-level groups are visible section labels instead of collapsed containers. Compare this with Plain navigation.",
+    "config": "variants/ui/sections/zensical.toml"
+  },
+  {
+    "id": "expanded",
+    "title": "Expanded navigation",
+    "features": [
+      "navigation.expand"
+    ],
+    "description": "All navigation groups start expanded. This suits short manuals but gets noisy on large sites.",
+    "config": "variants/ui/expanded/zensical.toml"
+  },
+  {
+    "id": "pruned",
+    "title": "Pruned navigation",
+    "features": [
+      "navigation.prune",
+      "navigation.indexes"
+    ],
+    "description": "Only the current branch is expanded in the generated navigation. Enter Guides to see its children. This reduces large navigation trees.",
+    "config": "variants/ui/pruned/zensical.toml"
+  },
+  {
+    "id": "breadcrumbs",
+    "title": "Breadcrumbs and section indexes",
+    "features": [
+      "navigation.path",
+      "navigation.indexes",
+      "navigation.footer"
+    ],
+    "description": "Open Guides \u2192 Field notes. Breadcrumbs expose the hierarchy and the footer moves through the reading sequence.",
+    "config": "variants/ui/breadcrumbs/zensical.toml"
+  },
+  {
+    "id": "integrated-toc",
+    "title": "Table of contents in navigation",
+    "features": [
+      "toc.integrate",
+      "toc.follow"
+    ],
+    "description": "The current page headings appear in the left navigation. Scroll through the page to follow the active section.",
+    "config": "variants/ui/integrated-toc/zensical.toml"
+  },
+  {
+    "id": "instant",
+    "title": "Instant navigation and previews",
+    "features": [
+      "navigation.instant",
+      "navigation.instant.prefetch",
+      "navigation.instant.progress",
+      "navigation.instant.preview",
+      "navigation.tracking",
+      "navigation.top"
+    ],
+    "description": "Follow an internal link without a full page reload. Hover the preview link for a page preview; scroll upward near the bottom for the back-to-top control.",
+    "config": "variants/ui/instant/zensical.toml"
+  },
+  {
+    "id": "dark",
+    "title": "Dark color scheme",
+    "features": [],
+    "description": "A fixed dark palette changes surfaces and code colors. Compare the same callout and code block in the light baseline.",
+    "config": "variants/ui/dark/zensical.toml"
+  },
+  {
+    "id": "colors",
+    "title": "Primary and accent colors",
+    "features": [],
+    "description": "A teal primary color and orange accent change navigation and interactive emphasis. Hover a link to see the accent.",
+    "config": "variants/ui/colors/zensical.toml"
+  },
+  {
+    "id": "fonts",
+    "title": "Alternative typography",
+    "features": [],
+    "description": "Serif body text gives long prose a different texture; monospace source uses Fira Code. Font loading requires a network connection.",
+    "config": "variants/ui/fonts/zensical.toml"
+  },
+  {
+    "id": "system-fonts",
+    "title": "System fonts",
+    "features": [],
+    "description": "The theme uses locally available system fonts without fetching Google Fonts. Compare text width and code with the typography variant.",
+    "config": "variants/ui/system-fonts/zensical.toml"
+  },
+  {
+    "id": "rtl",
+    "title": "Arabic and right-to-left layout",
+    "features": [],
+    "description": "The navigation and interface run right to left. The Arabic sample shows text direction; English examples remain intentionally visible for comparison.",
+    "config": "variants/ui/rtl/zensical.toml"
+  },
+  {
+    "id": "header",
+    "title": "Autohiding header",
+    "features": [
+      "header.autohide",
+      "navigation.tabs"
+    ],
+    "description": "Scroll down until the header leaves view, then scroll upward to reveal it. This creates more reading space.",
+    "config": "variants/ui/header/zensical.toml"
+  },
+  {
+    "id": "content-actions",
+    "title": "Page and code actions",
+    "features": [
+      "content.action.edit",
+      "content.action.view",
+      "content.code.copy",
+      "content.code.select",
+      "content.code.annotate"
+    ],
+    "description": "Use the source/view links near the title and the copy/select controls in the code block. The repository links point to the shared fixture generator.",
+    "config": "variants/ui/content-actions/zensical.toml"
+  },
+  {
+    "id": "search-ui",
+    "title": "Search suggestions and highlighting",
+    "features": [
+      "search.suggest",
+      "search.highlight",
+      "search.share"
+    ],
+    "description": "Search for kestrel. Follow a result to see matching text highlighted. Use the share control to preserve a search query in a URL.",
+    "config": "variants/ui/search-ui/zensical.toml"
+  }
+]

@@ -1,0 +1,7 @@
+:root > * {
+  --md-primary-fg-color: #315d51;
+  --md-accent-fg-color: #a04f24;
+}
+.md-grid { max-width: 68rem; }
+.customization-banner { padding: .6rem 1rem; background: #e5f2ea; color: #173b30; }
+.custom-template-note { border-left: .25rem solid #a04f24; padding: .75rem 1rem; background: #fff2e8; color: #4a2717; }

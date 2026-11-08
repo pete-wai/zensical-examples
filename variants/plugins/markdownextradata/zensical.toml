@@ -1,0 +1,15 @@
+[project]
+site_name = "markdownextradata example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/markdownextradata/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.markdownextradata]
+
+
+[project.extra]
+product = "Trail Guide"
+release = "2.1"

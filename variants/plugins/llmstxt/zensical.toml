@@ -1,0 +1,14 @@
+[project]
+site_name = "llmstxt example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/llmstxt/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.llmstxt]
+full_output = "llms-full.txt"
+
+[project.plugins.llmstxt.sections]
+Guides = ["index.md", "notes.md"]

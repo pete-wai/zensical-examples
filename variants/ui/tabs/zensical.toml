@@ -1,0 +1,16 @@
+[project]
+site_name = "Navigation tabs"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/tabs/"
+site_description = "Native Zensical UI comparison"
+nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
+repo_url = "https://github.com/pete-wai/zensical-examples"
+edit_uri = "edit/main/variants/ui/tabs/docs/"
+[project.theme]
+features = ["navigation.tabs", "navigation.tabs.sticky"]
+
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+tables = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}

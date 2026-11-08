@@ -1,0 +1,9 @@
+.venv/
+.cache/
+**/.cache/
+**/site/
+__pycache__/
+.DS_Store
+.build/
+**/site-yaml/
+**/site-toml/

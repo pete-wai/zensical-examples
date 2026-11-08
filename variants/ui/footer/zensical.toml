@@ -1,0 +1,22 @@
+[project]
+site_name = "Footer controls"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/footer/"
+copyright = "Example field guide · Documentation demo"
+nav = [{"Overview"="index.md"}, {"Next page"="next.md"}]
+[project.theme]
+features = ["navigation.footer"]
+[project.theme.icon]
+previous = "fontawesome/solid/angle-left"
+next = "fontawesome/solid/angle-right"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/pete-wai/zensical-examples"
+name = "Example repository on GitHub"
+[[project.extra.social]]
+icon = "fontawesome/solid/book-open"
+link = "https://zensical.org/docs/"
+name = "Zensical documentation"
+[project.markdown_extensions]
+admonition = {}
+"pymdownx.details" = {}
+"pymdownx.superfences" = {}

@@ -1,0 +1,12 @@
+[project]
+site_name = "optimize example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/optimize/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.optimize]
+optimize_png = false
+optimize_jpg_quality = 60

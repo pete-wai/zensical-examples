@@ -1,0 +1,11 @@
+[project]
+site_name = "table-reader example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/table-reader/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.table-reader]
+data_path = "data"

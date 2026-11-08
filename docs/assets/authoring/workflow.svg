@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 110" role="img" aria-labelledby="title">
+<title id="title">Draft, review, and publish workflow</title>
+<g fill="#e8f2ff" stroke="#2760a5" stroke-width="2"><rect x="10" y="25" width="150" height="60" rx="12"/><rect x="225" y="25" width="150" height="60" rx="12"/><rect x="440" y="25" width="150" height="60" rx="12"/></g>
+<g font-family="sans-serif" font-size="20" fill="#173b63" text-anchor="middle"><text x="85" y="63">Draft</text><text x="300" y="63">Review</text><text x="515" y="63">Publish</text></g>
+<g stroke="#2760a5" stroke-width="3" fill="none"><path d="M160 55h55m-10-7 10 7-10 7"/><path d="M375 55h55m-10-7 10 7-10 7"/></g>
+</svg>

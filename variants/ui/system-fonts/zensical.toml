@@ -1,0 +1,16 @@
+[project]
+site_name = "System fonts"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/system-fonts/"
+site_description = "Native Zensical UI comparison"
+nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
+repo_url = "https://github.com/pete-wai/zensical-examples"
+edit_uri = "edit/main/variants/ui/system-fonts/docs/"
+[project.theme]
+features = []
+font = false
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+tables = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}

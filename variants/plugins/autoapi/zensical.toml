@@ -1,0 +1,11 @@
+[project]
+site_name = "autoapi example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/autoapi/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.mkdocs-autoapi]
+autoapi_dir = "samplelib"

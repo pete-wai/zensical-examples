@@ -1,0 +1,106 @@
+{
+  "captured": "2026-11-08",
+  "zensical": "0.1.0",
+  "ui": "0.0.41",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "browser": "Codex in-app browser",
+  "state": "Initial page, top of page; fixed palettes where specified; system preference otherwise",
+  "captures": [
+    {
+      "file": "docs/assets/screenshots/baseline.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/baseline/"
+    },
+    {
+      "file": "docs/assets/screenshots/branding.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/branding/"
+    },
+    {
+      "file": "docs/assets/screenshots/breadcrumbs.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/breadcrumbs/"
+    },
+    {
+      "file": "docs/assets/screenshots/classic.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/classic/"
+    },
+    {
+      "file": "docs/assets/screenshots/colors.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/colors/"
+    },
+    {
+      "file": "docs/assets/screenshots/content-actions.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/content-actions/"
+    },
+    {
+      "file": "docs/assets/screenshots/customization.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/customization/"
+    },
+    {
+      "file": "docs/assets/screenshots/dark.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/dark/"
+    },
+    {
+      "file": "docs/assets/screenshots/expanded.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/expanded/"
+    },
+    {
+      "file": "docs/assets/screenshots/fonts.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/fonts/"
+    },
+    {
+      "file": "docs/assets/screenshots/footer.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/footer/"
+    },
+    {
+      "file": "docs/assets/screenshots/header.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/header/"
+    },
+    {
+      "file": "docs/assets/screenshots/instant.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/instant/"
+    },
+    {
+      "file": "docs/assets/screenshots/integrated-toc.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/integrated-toc/"
+    },
+    {
+      "file": "docs/assets/screenshots/pruned.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/pruned/"
+    },
+    {
+      "file": "docs/assets/screenshots/rtl.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/rtl/"
+    },
+    {
+      "file": "docs/assets/screenshots/search-ui.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/search-ui/"
+    },
+    {
+      "file": "docs/assets/screenshots/sections.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/sections/"
+    },
+    {
+      "file": "docs/assets/screenshots/system-fonts.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/system-fonts/"
+    },
+    {
+      "file": "docs/assets/screenshots/tabs.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/tabs/"
+    },
+    {
+      "file": "docs/assets/screenshots/home-mobile.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "file": "docs/assets/screenshots/search-filter.jpg",
+      "url": "https://pete-wai.github.io/zensical-examples/variants/search/",
+      "state": "Query field guide, Botany filter selected"
+    }
+  ]
+}

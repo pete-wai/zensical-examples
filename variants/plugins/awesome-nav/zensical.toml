@@ -1,0 +1,11 @@
+[project]
+site_name = "awesome-nav example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/awesome-nav/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.awesome-nav]
+

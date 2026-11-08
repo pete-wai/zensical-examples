@@ -1,0 +1,16 @@
+[project]
+site_name = "Page and code actions"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/content-actions/"
+site_description = "Native Zensical UI comparison"
+nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
+repo_url = "https://github.com/pete-wai/zensical-examples"
+edit_uri = "edit/main/variants/ui/content-actions/docs/"
+[project.theme]
+features = ["content.action.edit", "content.action.view", "content.code.copy", "content.code.select", "content.code.annotate"]
+
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+tables = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}

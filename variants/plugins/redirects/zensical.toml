@@ -1,0 +1,11 @@
+[project]
+site_name = "redirects example"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/redirects/"
+docs_dir = "docs"
+site_dir = "site"
+
+[project.theme]
+font = false
+
+[project.plugins.redirects]
+redirect_maps = { "old-guide.md" = "new-guide.md", "old-kit.md" = "kit.md" }

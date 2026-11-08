@@ -1,0 +1,12 @@
+[project]
+site_name = "Build workflow: automatic navigation"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/build-workflow/"
+use_directory_urls = false
+exclude_docs = "excluded.md"
+draft_docs = "draft.md"
+not_in_nav = "hidden.md"
+[project.theme]
+font = false
+[project.validation]
+invalid_links = true
+invalid_link_anchors = true

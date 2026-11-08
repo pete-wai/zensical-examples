@@ -1,0 +1,12 @@
+[project]
+site_name = "Customization"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/customization/"
+extra_css = ["assets/extra.css"]
+nav = [{"Overview"="index.md"}, {"Custom template"="template.md"}]
+[project.theme]
+custom_dir = "overrides"
+features = ["navigation.footer"]
+[project.markdown_extensions]
+admonition = {}
+"pymdownx.details" = {}
+"pymdownx.superfences" = {}

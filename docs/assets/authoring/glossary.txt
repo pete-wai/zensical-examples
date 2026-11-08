@@ -1,0 +1,2 @@
+*[CI]: Continuous integration
+*[CD]: Continuous delivery

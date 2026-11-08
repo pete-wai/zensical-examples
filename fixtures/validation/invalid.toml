@@ -1,0 +1,8 @@
+[project]
+site_name = "Intentional validation failure"
+site_dir = "site-validation"
+[project.theme]
+font = false
+[project.validation]
+invalid_links = true
+invalid_link_anchors = true

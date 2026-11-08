@@ -1,0 +1,17 @@
+[project]
+site_name = "Arabic and right-to-left layout"
+site_url = "https://pete-wai.github.io/zensical-examples/variants/rtl/"
+site_description = "Native Zensical UI comparison"
+nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
+repo_url = "https://github.com/pete-wai/zensical-examples"
+edit_uri = "edit/main/variants/ui/rtl/docs/"
+[project.theme]
+features = []
+language = "ar"
+direction = "rtl"
+[project.markdown_extensions]
+admonition = {}
+attr_list = {}
+tables = {}
+"pymdownx.superfences" = {}
+"pymdownx.highlight" = {}

@@ -1,0 +1,1408 @@
+{
+  "schema_version": 1,
+  "observed_environment": {
+    "zensical": "0.1.0",
+    "zensical_ui": "0.0.41",
+    "python": "3.13.15",
+    "uv": "0.12.19",
+    "verification": "Installed package versions were checked locally; this does not verify every listed feature."
+  },
+  "scope": "Official documentation navigation and listed supported plugin and Markdown extension families, reviewed 2026-11-08. An example covers a representative use, not all options or combinations.",
+  "entries": [
+    {
+      "category": "Authoring",
+      "capability": "Markdown",
+      "source_url": "https://zensical.org/docs/authoring/markdown/",
+      "demo_path": "docs/authoring/prose.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Front matter",
+      "source_url": "https://zensical.org/docs/authoring/frontmatter/",
+      "demo_path": "docs/authoring/front-matter.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Admonitions",
+      "source_url": "https://zensical.org/docs/authoring/admonitions/",
+      "demo_path": "docs/authoring/admonitions.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Buttons",
+      "source_url": "https://zensical.org/docs/authoring/buttons/",
+      "demo_path": "docs/authoring/buttons.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Code blocks",
+      "source_url": "https://zensical.org/docs/authoring/code-blocks/",
+      "demo_path": "docs/authoring/code.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Content tabs",
+      "source_url": "https://zensical.org/docs/authoring/content-tabs/",
+      "demo_path": "docs/authoring/tabs.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Data tables",
+      "source_url": "https://zensical.org/docs/authoring/data-tables/",
+      "demo_path": "docs/authoring/tables.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Diagrams",
+      "source_url": "https://zensical.org/docs/authoring/diagrams/",
+      "demo_path": "docs/authoring/diagrams.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Footnotes",
+      "source_url": "https://zensical.org/docs/authoring/footnotes/",
+      "demo_path": "docs/authoring/footnotes.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Formatting",
+      "source_url": "https://zensical.org/docs/authoring/formatting/",
+      "demo_path": "docs/authoring/formatting.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Grids",
+      "source_url": "https://zensical.org/docs/authoring/grids/",
+      "demo_path": "docs/authoring/grids.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Icons and emoji",
+      "source_url": "https://zensical.org/docs/authoring/icons-emojis/",
+      "demo_path": "docs/authoring/icons.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Images",
+      "source_url": "https://zensical.org/docs/authoring/images/",
+      "demo_path": "docs/authoring/images.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Lists",
+      "source_url": "https://zensical.org/docs/authoring/lists/",
+      "demo_path": "docs/authoring/lists.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Math",
+      "source_url": "https://zensical.org/docs/authoring/math/",
+      "demo_path": "docs/authoring/math.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Tooltips",
+      "source_url": "https://zensical.org/docs/authoring/tooltips/",
+      "demo_path": "docs/authoring/tooltips.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Authoring",
+      "capability": "Directives",
+      "source_url": "https://zensical.org/docs/authoring/directives/",
+      "demo_path": "docs/authoring/directives.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Source illustration only; the separate Spark extension and catalog are not enabled."
+    },
+    {
+      "category": "Setup",
+      "capability": "Basics",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Colors",
+      "source_url": "https://zensical.org/docs/setup/colors/",
+      "demo_path": "variants/ui/colors/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Fonts",
+      "source_url": "https://zensical.org/docs/setup/fonts/",
+      "demo_path": "variants/ui/fonts/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Language and RTL",
+      "source_url": "https://zensical.org/docs/setup/language/",
+      "demo_path": "variants/ui/rtl/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Logo and icons",
+      "source_url": "https://zensical.org/docs/setup/logo-and-icons/",
+      "demo_path": "variants/ui/branding/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Logo, favicon, and built-in theme icons are configured; behavior has not yet been verified."
+    },
+    {
+      "category": "Setup",
+      "capability": "Header",
+      "source_url": "https://zensical.org/docs/setup/header/",
+      "demo_path": "variants/ui/header/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Footer",
+      "source_url": "https://zensical.org/docs/setup/footer/",
+      "demo_path": "variants/ui/footer/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Copyright, social links and footer navigation are configured; behavior has not yet been verified."
+    },
+    {
+      "category": "Setup",
+      "capability": "Repository",
+      "source_url": "https://zensical.org/docs/setup/repository/",
+      "demo_path": "zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Data privacy",
+      "source_url": "https://zensical.org/docs/setup/data-privacy/",
+      "demo_path": "variants/plugins/privacy/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Navigation",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/build-workflow/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Redirects",
+      "source_url": "https://zensical.org/docs/setup/redirects/",
+      "demo_path": "variants/plugins/redirects/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Validation",
+      "source_url": "https://zensical.org/docs/setup/validation/",
+      "demo_path": "fixtures/validation/invalid.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "A strict build of this intentionally broken link fails as expected; validation is boolean rather than severity configuration."
+    },
+    {
+      "category": "Setup",
+      "capability": "Site search",
+      "source_url": "https://zensical.org/docs/setup/search/",
+      "demo_path": "variants/plugins/search/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Analytics",
+      "source_url": "https://zensical.org/docs/setup/analytics/",
+      "demo_path": "docs/ui/external-services.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Explained in prose; no active behavior is demonstrated."
+    },
+    {
+      "category": "Setup",
+      "capability": "Blog",
+      "source_url": "https://zensical.org/docs/setup/blog/",
+      "demo_path": "variants/plugins/blog/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Tags",
+      "source_url": "https://zensical.org/docs/setup/tags/",
+      "demo_path": "variants/plugins/tags/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Setup",
+      "capability": "Comment system",
+      "source_url": "https://zensical.org/docs/setup/comment-system/",
+      "demo_path": "docs/ui/external-services.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Explained in prose; no active behavior is demonstrated."
+    },
+    {
+      "category": "Setup",
+      "capability": "Offline usage",
+      "source_url": "https://zensical.org/docs/setup/offline/",
+      "demo_path": "variants/plugins/offline/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Configuration or demo source exists; this does not cover every setting or establish runtime behavior."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "api-autonav",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#api-autonav",
+      "demo_path": "variants/plugins/api-autonav/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "audio",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#audio",
+      "demo_path": "variants/plugins/audio/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "autoapi",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#autoapi",
+      "demo_path": "variants/plugins/autoapi/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "autorefs",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#autorefs",
+      "demo_path": "variants/plugins/autorefs/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "awesome-nav",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#awesome-nav",
+      "demo_path": "variants/plugins/awesome-nav/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "blog",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#blog",
+      "demo_path": "variants/plugins/blog/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "callouts",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#callouts",
+      "demo_path": "variants/plugins/callouts/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "exclude",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#exclude",
+      "demo_path": "variants/plugins/exclude/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "gh-admonitions",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#gh-admonitions",
+      "demo_path": "variants/plugins/gh-admonitions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "glightbox",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#glightbox",
+      "demo_path": "variants/plugins/glightbox/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "include-markdown",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#include-markdown",
+      "demo_path": "variants/plugins/include-markdown/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "literate-nav",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#literate-nav",
+      "demo_path": "variants/plugins/literate-nav/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "llmstxt",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#llmstxt",
+      "demo_path": "variants/plugins/llmstxt/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "macros",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#macros",
+      "demo_path": "variants/plugins/macros/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "markdown-exec",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#markdown-exec",
+      "demo_path": "variants/plugins/markdown-exec/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "markdownextradata",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#markdownextradata",
+      "demo_path": "variants/plugins/markdownextradata/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "meta",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#meta",
+      "demo_path": "variants/plugins/meta/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "mike",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#mike",
+      "demo_path": "docs/plugins/mike.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "The local build deploys two editions and a stable alias with mike; check the generated artifacts."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "minify",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#minify",
+      "demo_path": "variants/plugins/minify/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "mkdocstrings",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#mkdocstrings",
+      "demo_path": "variants/plugins/mkdocstrings/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "nav-weight",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#nav-weight",
+      "demo_path": "variants/plugins/nav-weight/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "offline",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#offline",
+      "demo_path": "variants/plugins/offline/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "optimize",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#optimize",
+      "demo_path": "variants/plugins/optimize/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "privacy",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#privacy",
+      "demo_path": "variants/plugins/privacy/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "redirects",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#redirects",
+      "demo_path": "variants/plugins/redirects/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "rss",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#rss",
+      "demo_path": "variants/plugins/rss/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "search",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#search",
+      "demo_path": "variants/plugins/search/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "section-index",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#section-index",
+      "demo_path": "variants/plugins/section-index/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "social",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#social",
+      "demo_path": "variants/plugins/social/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "table-reader",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#table-reader",
+      "demo_path": "variants/plugins/table-reader/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "tags",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#tags",
+      "demo_path": "variants/plugins/tags/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "video",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#video",
+      "demo_path": "variants/plugins/video/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "An isolated example is present; plugin settings and behavior require separate checks. Some integrations require extra dependencies."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "gen-files",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#gen-files",
+      "demo_path": null,
+      "status": "unsupported",
+      "verified_version": null,
+      "note": "Upstream lists this plugin as unsupported; there is no active demo."
+    },
+    {
+      "category": "Plugin compatibility",
+      "capability": "open-in-new-tab",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/plugins/#open-in-new-tab",
+      "demo_path": null,
+      "status": "unsupported",
+      "verified_version": null,
+      "note": "Upstream lists this plugin as unsupported; there is no active demo."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Abbreviations",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/tooltips.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Admonition",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/admonitions.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Attribute Lists",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/buttons.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Definition Lists",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/lists.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Footnotes",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/footnotes.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Markdown in HTML",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/grids.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Table of Contents",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/prose.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Tables",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown/",
+      "demo_path": "docs/authoring/tables.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Arithmatex",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/math.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Caption",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/images.md",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Rendered image and table captions were inspected in the built output; see also the table example."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Caret, Mark and Tilde",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/formatting.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Details",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/admonitions.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Emoji",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/icons.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Highlight",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/highlighting.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "InlineHilite",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/code.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Keys",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/formatting.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "SmartSymbols",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/formatting.md",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Built output contains the copyright, trademark, and fraction substitutions."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Snippets",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/snippets.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "SuperFences",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/code.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Tabbed",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/tabs.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Markdown compatibility",
+      "capability": "Tasklist",
+      "source_url": "https://zensical.org/docs/compatibility/markdown/python-markdown-extensions/",
+      "demo_path": "docs/authoring/lists.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Representative example only; individual settings and behavior are not exhaustively verified."
+    },
+    {
+      "category": "Other compatibility",
+      "capability": "MkDocs migration",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/migration/",
+      "demo_path": "fixtures/mkdocs-config/mkdocs.yml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "A limited TOML/YAML comparison builds the same fixture; it does not cover all migration settings."
+    },
+    {
+      "category": "Other compatibility",
+      "capability": "MkDocs versioning",
+      "source_url": "https://zensical.org/docs/compatibility/mkdocs/mike/",
+      "demo_path": "docs/plugins/mike.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Two editions and a stable alias are produced by the local mike deployment workflow; verify its generated artifacts with the project checks."
+    },
+    {
+      "category": "Other compatibility",
+      "capability": "CLI create, preview, and build",
+      "source_url": "https://zensical.org/docs/usage/",
+      "demo_path": "docs/ui/build-workflow.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Build workflow and reproducible checks are documented; new-project and preview flows are not demonstrated end to end."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.tabs",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/tabs/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.tabs.sticky",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/tabs/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.sections",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/sections/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.expand",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/expanded/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.prune",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/pruned/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.indexes",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/pruned/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.path",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/breadcrumbs/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.footer",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/breadcrumbs/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "toc.integrate",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/integrated-toc/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "toc.follow",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/integrated-toc/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.instant",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.instant.prefetch",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.instant.progress",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.instant.preview",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.tracking",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "navigation.top",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/instant/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "header.autohide",
+      "source_url": "https://zensical.org/docs/setup/header/",
+      "demo_path": "variants/ui/header/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "content.action.edit",
+      "source_url": "https://zensical.org/docs/setup/repository/",
+      "demo_path": "variants/ui/content-actions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "content.action.view",
+      "source_url": "https://zensical.org/docs/setup/repository/",
+      "demo_path": "variants/ui/content-actions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "content.code.copy",
+      "source_url": "https://zensical.org/docs/authoring/code-blocks/",
+      "demo_path": "variants/ui/content-actions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "content.code.select",
+      "source_url": "https://zensical.org/docs/authoring/code-blocks/",
+      "demo_path": "variants/ui/content-actions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "content.code.annotate",
+      "source_url": "https://zensical.org/docs/authoring/code-blocks/",
+      "demo_path": "variants/ui/content-actions/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "search.suggest",
+      "source_url": "https://zensical.org/docs/setup/search/",
+      "demo_path": "variants/ui/search-ui/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "search.highlight",
+      "source_url": "https://zensical.org/docs/setup/search/",
+      "demo_path": "variants/ui/search-ui/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Theme feature options",
+      "capability": "search.share",
+      "source_url": "https://zensical.org/docs/setup/search/",
+      "demo_path": "variants/ui/search-ui/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Modern theme",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/baseline/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Classic theme",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/classic/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Light and dark system palette",
+      "source_url": "https://zensical.org/docs/setup/colors/",
+      "demo_path": "zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Fixed dark palette",
+      "source_url": "https://zensical.org/docs/setup/colors/",
+      "demo_path": "variants/ui/dark/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Primary and accent colors",
+      "source_url": "https://zensical.org/docs/setup/colors/",
+      "demo_path": "variants/ui/colors/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Custom text and code fonts",
+      "source_url": "https://zensical.org/docs/setup/fonts/",
+      "demo_path": "variants/ui/fonts/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "System fonts without remote fonts",
+      "source_url": "https://zensical.org/docs/setup/fonts/",
+      "demo_path": "variants/ui/system-fonts/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Right-to-left language",
+      "source_url": "https://zensical.org/docs/setup/language/",
+      "demo_path": "variants/ui/rtl/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Page title, icon and status",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "docs/authoring/front-matter.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Per-page navigation and table of contents visibility",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "docs/ui/wide-page.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Per-page path and footer visibility",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "docs/ui/focused-page.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Navigation pruning and index pages",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/pruned/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Redirect mappings",
+      "source_url": "https://zensical.org/docs/setup/redirects/",
+      "demo_path": "variants/plugins/redirects/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Search suggestions and highlighting",
+      "source_url": "https://zensical.org/docs/setup/search/",
+      "demo_path": "variants/ui/search-ui/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Offline site generation",
+      "source_url": "https://zensical.org/docs/setup/offline/",
+      "demo_path": "variants/plugins/offline/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Analytics provider and event collection",
+      "source_url": "https://zensical.org/docs/setup/analytics/",
+      "demo_path": "docs/ui/external-services.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Explained but no analytics service is connected."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Comment service integration",
+      "source_url": "https://zensical.org/docs/setup/comment-system/",
+      "demo_path": "docs/ui/external-services.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Explained but no comment service is connected."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Link and anchor validation",
+      "source_url": "https://zensical.org/docs/setup/validation/",
+      "demo_path": "fixtures/validation/invalid.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "An intentionally broken link fails a strict build; the fixture enables link and anchor checks."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Page feedback control",
+      "source_url": "https://zensical.org/docs/setup/analytics/",
+      "demo_path": "docs/ui/external-services.md",
+      "status": "gap",
+      "verified_version": null,
+      "note": "Explained but no feedback service is connected."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Logo, favicon and custom icons",
+      "source_url": "https://zensical.org/docs/setup/logo-and-icons/",
+      "demo_path": "variants/ui/branding/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "Logo, favicon, and built-in theme icons are configured; behavior has not yet been verified."
+    },
+    {
+      "category": "Setup options",
+      "capability": "Custom CSS and template overrides",
+      "source_url": "https://zensical.org/docs/customization/",
+      "demo_path": "variants/ui/customization/zensical.toml",
+      "status": "example",
+      "verified_version": null,
+      "note": "CSS and an override directory are configured; output has not yet been verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Admonition types and custom titles",
+      "source_url": "https://zensical.org/docs/authoring/admonitions/",
+      "demo_path": "docs/authoring/admonitions.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Code highlighting and annotations",
+      "source_url": "https://zensical.org/docs/authoring/code-blocks/",
+      "demo_path": "docs/authoring/code.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Nested content tabs",
+      "source_url": "https://zensical.org/docs/authoring/content-tabs/",
+      "demo_path": "docs/authoring/tabs.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Table alignment",
+      "source_url": "https://zensical.org/docs/authoring/data-tables/",
+      "demo_path": "docs/authoring/tables.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Image lazy loading and palette variants",
+      "source_url": "https://zensical.org/docs/authoring/images/",
+      "demo_path": "docs/authoring/images.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Image alignment",
+      "source_url": "https://zensical.org/docs/authoring/images/",
+      "demo_path": "docs/authoring/images.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Nested lists",
+      "source_url": "https://zensical.org/docs/authoring/lists/",
+      "demo_path": "docs/authoring/lists.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Inline formatting",
+      "source_url": "https://zensical.org/docs/authoring/formatting/",
+      "demo_path": "docs/authoring/formatting.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Reference and glossary tooltips",
+      "source_url": "https://zensical.org/docs/authoring/tooltips/",
+      "demo_path": "docs/authoring/tooltips.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Block grid",
+      "source_url": "https://zensical.org/docs/authoring/grids/",
+      "demo_path": "docs/authoring/grids.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Authoring options",
+      "capability": "Page metadata",
+      "source_url": "https://zensical.org/docs/authoring/frontmatter/",
+      "demo_path": "docs/authoring/front-matter.md",
+      "status": "example",
+      "verified_version": null,
+      "note": "Source example exists; runtime behavior and every option are not yet verified."
+    },
+    {
+      "category": "Build workflow",
+      "capability": "exclude_docs",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/build-workflow/zensical.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Production output and navigation were inspected locally. Preview behavior was not tested."
+    },
+    {
+      "category": "Build workflow",
+      "capability": "draft_docs",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/build-workflow/zensical.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Production output and navigation were inspected locally. Preview behavior was not tested."
+    },
+    {
+      "category": "Build workflow",
+      "capability": "not_in_nav",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/build-workflow/zensical.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Production output and navigation were inspected locally. Preview behavior was not tested."
+    },
+    {
+      "category": "Build workflow",
+      "capability": "use_directory_urls",
+      "source_url": "https://zensical.org/docs/setup/basics/",
+      "demo_path": "variants/ui/build-workflow/zensical.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Production output and navigation were inspected locally. Preview behavior was not tested."
+    },
+    {
+      "category": "Build workflow",
+      "capability": "Explicit navigation",
+      "source_url": "https://zensical.org/docs/setup/navigation/",
+      "demo_path": "variants/ui/build-workflow-explicit/zensical.toml",
+      "status": "example",
+      "verified_version": "0.1.0",
+      "note": "Production output and navigation were inspected locally. Preview behavior was not tested."
+    }
+  ]
+}

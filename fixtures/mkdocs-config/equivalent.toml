@@ -1,0 +1,9 @@
+[project]
+site_name = "Configuration equivalence"
+site_url = "https://example.test/"
+docs_dir = "docs"
+site_dir = "site-toml"
+use_directory_urls = false
+nav = [{"Home" = "index.md"}, {"Guide" = "guide.md"}]
+[project.theme]
+font = false
