@@ -1,133 +1,224 @@
 {
-  "description": "Zensical and UI release history for the showcase. UI mappings follow upstream update entries; unchanged versions are carried forward. The package metadata pins 0.0.41 for 0.0.74 and 0.1.0.",
+  "description": "A single reader-facing changelog merges UI changes into the first main release that ships them. Original evidence notes are retained outside the published docs.",
   "main": [
     {
       "version": "0.0.60",
       "published": "2026-09-08",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.60",
-      "page": "docs/changelog/zensical/0.0.60.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.28",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-60",
+      "ui_changes": [
+        "0.0.28"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.60.md",
+      "legacy_path": "changelog/zensical/0.0.60.md"
     },
     {
       "version": "0.0.61",
       "published": "2026-09-11",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.61",
-      "page": "docs/changelog/zensical/0.0.61.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.29",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-61",
+      "ui_changes": [
+        "0.0.29"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.61.md",
+      "legacy_path": "changelog/zensical/0.0.61.md"
     },
     {
       "version": "0.0.62",
       "published": "2026-09-13",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.62",
-      "page": "docs/changelog/zensical/0.0.62.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.30",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-62",
+      "ui_changes": [
+        "0.0.30"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.62.md",
+      "legacy_path": "changelog/zensical/0.0.62.md"
     },
     {
       "version": "0.0.63",
       "published": "2026-09-19",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.63",
-      "page": "docs/changelog/zensical/0.0.63.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.31",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-63",
+      "ui_changes": [
+        "0.0.31"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.63.md",
+      "legacy_path": "changelog/zensical/0.0.63.md"
     },
     {
       "version": "0.0.64",
       "published": "2026-09-22",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.64",
-      "page": "docs/changelog/zensical/0.0.64.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.32",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-64",
+      "ui_changes": [
+        "0.0.32"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.64.md",
+      "legacy_path": "changelog/zensical/0.0.64.md"
     },
     {
       "version": "0.0.65",
       "published": "2026-09-24",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.65",
-      "page": "docs/changelog/zensical/0.0.65.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.32",
-      "ui_mapping_evidence": "carried forward from prior release"
+      "ui_mapping_evidence": "carried forward from prior release",
+      "anchor": "v0-0-65",
+      "ui_changes": [],
+      "evidence_path": "data/release-notes/zensical/0.0.65.md",
+      "legacy_path": "changelog/zensical/0.0.65.md"
     },
     {
       "version": "0.0.66",
       "published": "2026-09-28",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.66",
-      "page": "docs/changelog/zensical/0.0.66.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.33",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-66",
+      "ui_changes": [
+        "0.0.33"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.66.md",
+      "legacy_path": "changelog/zensical/0.0.66.md"
     },
     {
       "version": "0.0.67",
       "published": "2026-09-30",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.67",
-      "page": "docs/changelog/zensical/0.0.67.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.34",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-67",
+      "ui_changes": [
+        "0.0.34"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.67.md",
+      "legacy_path": "changelog/zensical/0.0.67.md"
     },
     {
       "version": "0.0.68",
       "published": "2026-10-05",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.68",
-      "page": "docs/changelog/zensical/0.0.68.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.35",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-68",
+      "ui_changes": [
+        "0.0.35"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.68.md",
+      "legacy_path": "changelog/zensical/0.0.68.md"
     },
     {
       "version": "0.0.69",
       "published": "2026-10-08",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.69",
-      "page": "docs/changelog/zensical/0.0.69.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.36",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-69",
+      "ui_changes": [
+        "0.0.36"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.69.md",
+      "legacy_path": "changelog/zensical/0.0.69.md"
     },
     {
       "version": "0.0.70",
       "published": "2026-10-12",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.70",
-      "page": "docs/changelog/zensical/0.0.70.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.37",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-70",
+      "ui_changes": [
+        "0.0.37"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.70.md",
+      "legacy_path": "changelog/zensical/0.0.70.md"
     },
     {
       "version": "0.0.71",
       "published": "2026-10-16",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.71",
-      "page": "docs/changelog/zensical/0.0.71.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.37",
-      "ui_mapping_evidence": "carried forward from prior release"
+      "ui_mapping_evidence": "carried forward from prior release",
+      "anchor": "v0-0-71",
+      "ui_changes": [],
+      "evidence_path": "data/release-notes/zensical/0.0.71.md",
+      "legacy_path": "changelog/zensical/0.0.71.md"
     },
     {
       "version": "0.0.72",
       "published": "2026-10-23",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.72",
-      "page": "docs/changelog/zensical/0.0.72.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.38",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-72",
+      "ui_changes": [
+        "0.0.38"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.72.md",
+      "legacy_path": "changelog/zensical/0.0.72.md"
     },
     {
       "version": "0.0.73",
       "published": "2026-10-26",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.73",
-      "page": "docs/changelog/zensical/0.0.73.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.39",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-73",
+      "ui_changes": [
+        "0.0.39"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.73.md",
+      "legacy_path": "changelog/zensical/0.0.73.md"
     },
     {
       "version": "0.0.74",
       "published": "2026-10-30",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.0.74",
-      "page": "docs/changelog/zensical/0.0.74.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.41",
-      "ui_mapping_evidence": "release notes"
+      "ui_mapping_evidence": "release notes",
+      "anchor": "v0-0-74",
+      "ui_changes": [
+        "0.0.40",
+        "0.0.41"
+      ],
+      "evidence_path": "data/release-notes/zensical/0.0.74.md",
+      "legacy_path": "changelog/zensical/0.0.74.md"
     },
     {
       "version": "0.1.0",
       "published": "2026-11-05",
       "release_url": "https://github.com/zensical/zensical/releases/tag/v0.1.0",
-      "page": "docs/changelog/zensical/0.1.0.md",
+      "page": "docs/changelog/index.md",
       "ui_version": "0.0.41",
-      "ui_mapping_evidence": "PyPI package metadata"
+      "ui_mapping_evidence": "PyPI package metadata",
+      "anchor": "v0-1-0",
+      "ui_changes": [],
+      "evidence_path": "data/release-notes/zensical/0.1.0.md",
+      "legacy_path": "changelog/zensical/0.1.0.md"
     }
   ],
   "ui": [
@@ -135,85 +226,141 @@
       "version": "0.0.28",
       "published": "2026-09-08",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.28",
-      "page": "docs/changelog/ui/0.0.28.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.28.md",
+      "legacy_path": "changelog/ui/0.0.28.md",
+      "anchor": "v0-0-60",
+      "included_in": "0.0.60"
     },
     {
       "version": "0.0.29",
       "published": "2026-09-11",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.29",
-      "page": "docs/changelog/ui/0.0.29.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.29.md",
+      "legacy_path": "changelog/ui/0.0.29.md",
+      "anchor": "v0-0-61",
+      "included_in": "0.0.61"
     },
     {
       "version": "0.0.30",
       "published": "2026-09-13",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.30",
-      "page": "docs/changelog/ui/0.0.30.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.30.md",
+      "legacy_path": "changelog/ui/0.0.30.md",
+      "anchor": "v0-0-62",
+      "included_in": "0.0.62"
     },
     {
       "version": "0.0.31",
       "published": "2026-09-19",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.31",
-      "page": "docs/changelog/ui/0.0.31.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.31.md",
+      "legacy_path": "changelog/ui/0.0.31.md",
+      "anchor": "v0-0-63",
+      "included_in": "0.0.63"
     },
     {
       "version": "0.0.32",
       "published": "2026-09-22",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.32",
-      "page": "docs/changelog/ui/0.0.32.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.32.md",
+      "legacy_path": "changelog/ui/0.0.32.md",
+      "anchor": "v0-0-64",
+      "included_in": "0.0.64"
     },
     {
       "version": "0.0.33",
       "published": "2026-09-28",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.33",
-      "page": "docs/changelog/ui/0.0.33.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.33.md",
+      "legacy_path": "changelog/ui/0.0.33.md",
+      "anchor": "v0-0-66",
+      "included_in": "0.0.66"
     },
     {
       "version": "0.0.34",
       "published": "2026-09-30",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.34",
-      "page": "docs/changelog/ui/0.0.34.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.34.md",
+      "legacy_path": "changelog/ui/0.0.34.md",
+      "anchor": "v0-0-67",
+      "included_in": "0.0.67"
     },
     {
       "version": "0.0.35",
       "published": "2026-10-05",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.35",
-      "page": "docs/changelog/ui/0.0.35.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.35.md",
+      "legacy_path": "changelog/ui/0.0.35.md",
+      "anchor": "v0-0-68",
+      "included_in": "0.0.68"
     },
     {
       "version": "0.0.36",
       "published": "2026-10-08",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.36",
-      "page": "docs/changelog/ui/0.0.36.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.36.md",
+      "legacy_path": "changelog/ui/0.0.36.md",
+      "anchor": "v0-0-69",
+      "included_in": "0.0.69"
     },
     {
       "version": "0.0.37",
       "published": "2026-10-12",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.37",
-      "page": "docs/changelog/ui/0.0.37.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.37.md",
+      "legacy_path": "changelog/ui/0.0.37.md",
+      "anchor": "v0-0-70",
+      "included_in": "0.0.70"
     },
     {
       "version": "0.0.38",
       "published": "2026-10-20",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.38",
-      "page": "docs/changelog/ui/0.0.38.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.38.md",
+      "legacy_path": "changelog/ui/0.0.38.md",
+      "anchor": "v0-0-72",
+      "included_in": "0.0.72"
     },
     {
       "version": "0.0.39",
       "published": "2026-10-26",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.39",
-      "page": "docs/changelog/ui/0.0.39.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.39.md",
+      "legacy_path": "changelog/ui/0.0.39.md",
+      "anchor": "v0-0-73",
+      "included_in": "0.0.73"
     },
     {
       "version": "0.0.40",
       "published": "2026-10-27",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.40",
-      "page": "docs/changelog/ui/0.0.40.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.40.md",
+      "legacy_path": "changelog/ui/0.0.40.md",
+      "anchor": "v0-0-74",
+      "included_in": "0.0.74"
     },
     {
       "version": "0.0.41",
       "published": "2026-10-30",
       "release_url": "https://github.com/zensical/ui/releases/tag/v0.0.41",
-      "page": "docs/changelog/ui/0.0.41.md"
+      "page": "docs/changelog/index.md",
+      "evidence_path": "data/release-notes/ui/0.0.41.md",
+      "legacy_path": "changelog/ui/0.0.41.md",
+      "anchor": "v0-0-74",
+      "included_in": "0.0.74"
     }
   ],
   "metadata_sources": [

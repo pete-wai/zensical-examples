@@ -19,11 +19,7 @@ def main():
     nav=[{'Start here':'index.md'}]
     for directory,label in [('authoring','Authoring'),('plugins','Plugins'),('ui','UI & configuration'),('changelog','Changelog')]:
         if directory == 'changelog':
-            releases=json.loads((ROOT/'data/releases.json').read_text())
-            sections=[{'Overview':'changelog/index.md'}]
-            for kind,label2 in [('main','Zensical releases'),('ui','UI releases')]:
-                sections.append({label2:[{r['version']:str(Path(r['page']).relative_to('docs'))} for r in reversed(releases[kind])]})
-            nav.append({label:sections})
+            nav.append({label:'changelog/index.md'})
             continue
         paths=sorted((ROOT/'docs'/directory).rglob('*.md'),key=lambda p:(p.name!='index.md',str(p)))
         nav.append({label:[{title(p):str(p.relative_to(ROOT/'docs'))} for p in paths]})

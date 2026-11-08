@@ -54,6 +54,30 @@ def main() -> None:
         if entry["ui_version"] not in expected_ui:
             raise ValueError(f"Unknown UI release: {entry}")
 
+    # Every UI release is explained once, alongside the first main release
+    # that contains it; all former page URLs retain a destination anchor.
+    changelog = (ROOT / "docs/changelog/index.md").read_text()
+    included_ui = []
+    positions = []
+    for release in releases["main"]:
+        marker = "{ #" + release["anchor"] + " }"
+        if changelog.count(marker) != 1:
+            raise ValueError(f"Missing or duplicate changelog section: {release['version']}")
+        positions.append(changelog.index(marker))
+        included_ui.extend(release["ui_changes"])
+    if positions != sorted(positions, reverse=True):
+        raise ValueError("Changelog must show newest main releases first")
+    if len(included_ui) != len(expected_ui) or set(included_ui) != expected_ui:
+        raise ValueError("Every UI release must be included exactly once")
+    for kind in ("main", "ui"):
+        for release in releases[kind]:
+            if not (ROOT / release["evidence_path"]).is_file():
+                raise FileNotFoundError(release["evidence_path"])
+            if "{ #" + release["anchor"] + " }" not in changelog:
+                raise ValueError(f"Missing destination for {release['legacy_path']}")
+    if "/commit/" in changelog or "/issues/" in changelog:
+        raise ValueError("Keep commit and issue references in the evidence archive")
+
     counts = Counter(e["status"] for e in entries)
     lines = [
         "# Capability inventory", "",
