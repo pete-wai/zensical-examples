@@ -1,6 +1,6 @@
 [project]
 site_name = "glightbox example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/glightbox/"
+site_url = "https://pwai.dev/zensical-examples/variants/glightbox/"
 docs_dir = "docs"
 site_dir = "site"
 

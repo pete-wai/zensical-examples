@@ -1,6 +1,6 @@
 [project]
 site_name = "video example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/video/"
+site_url = "https://pwai.dev/zensical-examples/variants/video/"
 docs_dir = "docs"
 site_dir = "site"
 

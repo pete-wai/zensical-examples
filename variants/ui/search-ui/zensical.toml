@@ -1,10 +1,10 @@
 [project]
 site_name = "Search suggestions and highlighting"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/search-ui/"
+site_url = "https://pwai.dev/zensical-examples/variants/search-ui/"
 site_description = "Native Zensical UI comparison"
 nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
 repo_url = "https://github.com/pete-wai/zensical-examples"
-edit_uri = "edit/main/variants/ui/search/docs/"
+edit_uri = "edit/main/variants/ui/search-ui/docs/"
 [project.theme]
 features = ["search.suggest", "search.highlight", "search.share"]
 

@@ -18,7 +18,7 @@ Open `llms-full.txt` to inspect the selected pages combined in one file.
 
 ## Generated files
 
-[llms.txt index](/zensical-examples/variants/llmstxt/llms.txt) · [Combined text](/zensical-examples/variants/llmstxt/llms-full.txt) · [Field notes as Markdown](https://pete-wai.github.io/zensical-examples/variants/llmstxt/notes/index.md)
+[llms.txt index](/zensical-examples/variants/llmstxt/llms.txt) · [Combined text](/zensical-examples/variants/llmstxt/llms-full.txt) · [Field notes as Markdown](https://pwai.dev/zensical-examples/variants/llmstxt/notes/index.md)
 
 ??? example "Source and configuration"
 

@@ -1,6 +1,6 @@
 [project]
 site_name = "Pruned navigation"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/pruned/"
+site_url = "https://pwai.dev/zensical-examples/variants/pruned/"
 site_description = "Native Zensical UI comparison"
 nav = [{"Overview"="index.md"}, {"Guides"=[{"Start here"="guides/index.md"},{"Field notes"="guides/notes.md"},{"Equipment"="guides/equipment.md"}]}, {"Reference"=[{"Species"="reference/species.md"}]}]
 repo_url = "https://github.com/pete-wai/zensical-examples"

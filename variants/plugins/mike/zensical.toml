@@ -1,6 +1,6 @@
 [project]
 site_name = "Versioned field guide"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/mike/"
+site_url = "https://pwai.dev/zensical-examples/variants/mike/"
 [project.theme]
 font = false
 [project.plugins.mike]

@@ -2,7 +2,7 @@
 from pathlib import Path
 import json
 ROOT = Path(__file__).resolve().parents[1]
-BASE = 'https://pete-wai.github.io/zensical-examples/'
+BASE = 'https://pwai.dev/zensical-examples/'
 # slug, label, flags, explanation, theme additions
 variants = [
 ('baseline','Plain navigation',[], 'The sidebar uses collapsible groups. Open Guides, then return here to compare the expanded version.', ''),

@@ -4,4 +4,4 @@ This guide is designed to be extracted and opened directly from the filesystem. 
 
 [Field notes](notes.md) · [Equipment](equipment.md)
 
-[Return to the online showcase](https://pete-wai.github.io/zensical-examples/plugins/offline/)
+[Return to the online showcase](https://pwai.dev/zensical-examples/plugins/offline/)

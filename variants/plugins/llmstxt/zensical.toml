@@ -1,6 +1,6 @@
 [project]
 site_name = "llmstxt example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/llmstxt/"
+site_url = "https://pwai.dev/zensical-examples/variants/llmstxt/"
 docs_dir = "docs"
 site_dir = "site"
 

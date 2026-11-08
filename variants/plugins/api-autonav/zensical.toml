@@ -1,6 +1,6 @@
 [project]
 site_name = "api-autonav example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/api-autonav/"
+site_url = "https://pwai.dev/zensical-examples/variants/api-autonav/"
 docs_dir = "docs"
 site_dir = "site"
 

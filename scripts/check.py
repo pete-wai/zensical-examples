@@ -21,7 +21,7 @@ for p in html:
             url=node.get(attr,'')
             parsed=urlsplit(url)
             if not url: continue
-            if parsed.netloc == 'pete-wai.github.io' and parsed.path.startswith(PREFIX): pass
+            if parsed.netloc == 'pwai.dev' and parsed.path.startswith(PREFIX): pass
             elif parsed.scheme or parsed.netloc: continue
             path=unquote(parsed.path)
             if not path: target=p

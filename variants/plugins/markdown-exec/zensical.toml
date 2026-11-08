@@ -1,6 +1,6 @@
 [project]
 site_name = "markdown-exec example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/markdown-exec/"
+site_url = "https://pwai.dev/zensical-examples/variants/markdown-exec/"
 docs_dir = "docs"
 site_dir = "site"
 

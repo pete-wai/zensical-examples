@@ -1,6 +1,6 @@
 [project]
 site_name = "minify example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/minify/"
+site_url = "https://pwai.dev/zensical-examples/variants/minify/"
 docs_dir = "docs"
 site_dir = "site"
 

@@ -1,6 +1,6 @@
 [project]
 site_name = "callouts example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/callouts/"
+site_url = "https://pwai.dev/zensical-examples/variants/callouts/"
 docs_dir = "docs"
 site_dir = "site"
 

@@ -1,6 +1,6 @@
 [project]
 site_name = "section-index example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/section-index/"
+site_url = "https://pwai.dev/zensical-examples/variants/section-index/"
 docs_dir = "docs"
 site_dir = "site"
 nav = [{ "Home" = "index.md" }, { "Field guide" = [{ "Overview" = "guide/index.md" }, { "Equipment" = "guide/equipment.md" }] }]

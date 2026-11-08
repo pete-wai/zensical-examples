@@ -1,6 +1,6 @@
 [project]
 site_name = "meta example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/meta/"
+site_url = "https://pwai.dev/zensical-examples/variants/meta/"
 docs_dir = "docs"
 site_dir = "site"
 

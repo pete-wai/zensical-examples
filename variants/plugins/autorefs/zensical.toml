@@ -1,6 +1,6 @@
 [project]
 site_name = "autorefs example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/autorefs/"
+site_url = "https://pwai.dev/zensical-examples/variants/autorefs/"
 docs_dir = "docs"
 site_dir = "site"
 

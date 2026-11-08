@@ -1,6 +1,6 @@
 [project]
 site_name = "Footer controls"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/footer/"
+site_url = "https://pwai.dev/zensical-examples/variants/footer/"
 copyright = "Example field guide · Documentation demo"
 nav = [{"Overview"="index.md"}, {"Next page"="next.md"}]
 [project.theme]

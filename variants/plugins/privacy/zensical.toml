@@ -1,6 +1,6 @@
 [project]
 site_name = "privacy example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/privacy/"
+site_url = "https://pwai.dev/zensical-examples/variants/privacy/"
 docs_dir = "docs"
 site_dir = "site"
 

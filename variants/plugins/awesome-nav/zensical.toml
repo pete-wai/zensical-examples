@@ -1,6 +1,6 @@
 [project]
 site_name = "awesome-nav example"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/awesome-nav/"
+site_url = "https://pwai.dev/zensical-examples/variants/awesome-nav/"
 docs_dir = "docs"
 site_dir = "site"
 

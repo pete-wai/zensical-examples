@@ -1,6 +1,6 @@
 [project]
 site_name = "Field guide branding"
-site_url = "https://pete-wai.github.io/zensical-examples/variants/branding/"
+site_url = "https://pwai.dev/zensical-examples/variants/branding/"
 repo_url = "https://github.com/pete-wai/zensical-examples"
 repo_name = "Example repository"
 [project.theme]
